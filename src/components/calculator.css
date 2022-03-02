@@ -1,0 +1,103 @@
+.calculator {
+	width: 300px;
+	height: 500px;
+	background: #1f1f1f;
+	border-radius: 0 0 20px 20px;
+}
+
+.input {
+	padding: 10px;
+	width: 280px;
+	height: 100px;
+	background: #33383f;
+	border-radius: 0px 0px 30px 30px;
+	border: none;
+}
+
+h1 {
+	text-align: center;
+	font-size: 3rem;
+	color: #d3d3d3;
+}
+
+p {
+	text-align: right;
+}
+
+.tema {
+	font-size: 1.2rem;
+	text-align: center;
+	color: #ccc;
+}
+
+label {
+	font-size: 1.2rem;
+	text-align: center;
+	margin: auto;
+	padding: 5px;
+	cursor: pointer;
+	color: #ccc;
+}
+
+#modos {
+	display: none;
+}
+
+.tela {
+	background-color: transparent;
+	color: #fff;
+	font-size: 2rem;
+}
+
+.result {
+	background-color: transparent;
+	color: #fff;
+	font-size: 3rem;
+}
+
+button {
+	font-size: 1.5rem;
+	width: 60px;
+	height: 60px;
+	border-radius: 30px;
+	padding: 10px;
+	margin: 7px;
+	align-items: center;
+	border: none;
+}
+
+.btn1 {
+	background: #282a2d;
+	color: #fff;
+}
+
+.btnGreen {
+	background: #c4eed0;
+	color: #000;
+}
+
+.btnGreen:hover {
+	background: #9df7b6;
+	color: #000;
+}
+
+.btnBlue {
+	background: #5ab3f0;
+	color: #000;
+}
+
+.btnBlue:hover {
+	background: #38a7f1;
+	color: #000;
+}
+
+.btnRes {
+	background: #d3e3fd;
+	color: #000;
+}
+
+.btnRes:hover {
+	background: #aaaaaa;
+	color: #000;
+}
+
