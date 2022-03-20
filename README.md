@@ -4,8 +4,8 @@ essa calculadora feita com react foi inspirada na calculadora pradrão do androi
 
 assim como do android ela tem tanto dark quanto ligth mode
 ![ calculadora com dark mode](assets/calcDark.png)
-![ calculadora com ligth mode](assets/calcDark.png)
+![ calculadora com ligth mode](assets/calcLigth.png)
 onde voce pode mudar usando o icone no canto superior esquerdo
-![ calculadora com ligth mode](assets/calcMode.png)
+![ mudar o modo](assets/calcMode.png)
 
 para acessar a pagina do site [click aqui](https://dt59bt.csb.app/)
